@@ -14,6 +14,14 @@ Il diagramma permette di individuare:
 
 ## 2. Fattore di carico
 
+!!! note "Definizione"
+
+    Il fattore di carico è il rapporto tra la portanza e il peso del velivolo:
+
+    $$
+    n = \frac{L}{W}
+    $$
+
 Il fattore di carico è definito come:
 
 $$

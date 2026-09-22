@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/classe5/index.md",
+                "file": "docs/classe5/diagramma-manovra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "diagramma-manovra"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "debec892f6685684",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "docs/classe5/index.md",
+    "conflict-files-obsidian-git.md",
     "docs/classe5/carichi.md",
     "docs/classe5/diagramma-manovra.md",
     "docs/classe5/allegati/Pasted image 20260922225032.png",
