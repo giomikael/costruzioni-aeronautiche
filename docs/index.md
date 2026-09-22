@@ -6,7 +6,7 @@ Benvenuti nel materiale didattico di **Costruzioni Aeronautiche**.
 
 In questa sezione sono disponibili le lezioni dedicate ai carichi e ai diagrammi regolamentari.
 
-- [Carichi principali sul velivolo](carichi.md)
+- [Carichi principali sul velivolo](docs/carichi.md)
 - [Diagramma di manovra](diagramma-manovra.md)
 
 ---
