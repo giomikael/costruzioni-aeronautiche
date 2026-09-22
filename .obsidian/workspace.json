@@ -49,7 +49,8 @@
               "title": "diagramma-manovra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,17 +225,21 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "ba84de393e665340",
   "lastOpenFiles": [
+    "docs/classe5/diagramma-manovra.md",
+    "Senza nome.md",
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets",
     "materiali docente",
     "docs/classe5/allegati/Pasted image 20260922235656.png",
     "docs/classe5/index.md",
     "conflict-files-obsidian-git.md",
     "docs/classe5/carichi.md",
-    "docs/classe5/diagramma-manovra.md",
     "docs/classe5/allegati/Pasted image 20260922225032.png",
     "docs/classe5/allegati",
     "docs/index.md",
