@@ -6,3 +6,4 @@ Materiale didattico di Costruzioni Aeronautiche per la classe quinta.
 
 - [diagramma-manovra](diagramma-manovra.md) 
 - [carichi](carichi.md)
+
