@@ -1,0 +1,12 @@
+site_name: Costruzioni Aeronautiche
+site_description: Materiale didattico di Costruzioni Aeronautiche
+
+theme:
+  name: material
+  language: it
+
+nav:
+  - Home: index.md
+  - Classe 5:
+      - Carichi principali sul velivolo: carichi.md
+      - Diagramma di manovra: diagramma-manovra.md
