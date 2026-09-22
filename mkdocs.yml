@@ -38,6 +38,9 @@ nav:
       - Diagramma di manovra: classe5/diagramma-manovra.md
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
 
