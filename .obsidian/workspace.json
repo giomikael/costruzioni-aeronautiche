@@ -49,8 +49,7 @@
               "title": "diagramma-manovra"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "debec892f6685684",
+  "active": "ba84de393e665340",
   "lastOpenFiles": [
+    "materiali docente",
+    "docs/classe5/allegati/Pasted image 20260922235656.png",
     "docs/classe5/index.md",
     "conflict-files-obsidian-git.md",
     "docs/classe5/carichi.md",
