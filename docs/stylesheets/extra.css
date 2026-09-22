@@ -1,0 +1,12 @@
+/* Aumenta la dimensione del testo nei riquadri */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.85rem;
+}
+
+/* Titolo del riquadro */
+.md-typeset .admonition-title,
+.md-typeset details > summary {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
