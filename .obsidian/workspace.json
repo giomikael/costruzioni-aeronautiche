@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/classe5/index.md",
+                "file": "docs/classe5/diagramma-manovra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "diagramma-manovra"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/classe5/index.md",
+                "file": "docs/classe5/diagramma-manovra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/classe5/index.md",
+                "file": "docs/classe5/diagramma-manovra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/classe5/index.md",
+                "file": "docs/classe5/diagramma-manovra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,9 +201,11 @@
   },
   "active": "a7d60b5137eefe64",
   "lastOpenFiles": [
-    "docs/classe5/diagramma-manovra.md",
+    "docs/classe5/allegati/Pasted image 20260922225032.png",
+    "docs/classe5/allegati",
+    "docs/classe5/index.md",
     "docs/index.md",
     "docs/carichi.md",
-    "docs/classe5/index.md"
+    "docs/classe5/diagramma-manovra.md"
   ]
 }

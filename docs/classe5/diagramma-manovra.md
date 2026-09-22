@@ -2,6 +2,7 @@
 
 Il diagramma di manovra, o diagramma di inviluppo di manovra, rappresenta i limiti di fattore di carico e di velocità entro i quali il velivolo può operare in condizioni di manovra.
 
+![](allegati/Pasted%20image%2020260922225032.png)
 ## 1. Scopo del diagramma
 
 Il diagramma permette di individuare:
