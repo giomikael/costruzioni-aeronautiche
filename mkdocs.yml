@@ -1,3 +1,4 @@
+```yaml
 site_name: Costruzioni Aeronautiche
 site_description: Materiale didattico di Costruzioni Aeronautiche
 
@@ -10,3 +11,12 @@ nav:
   - Classe 5:
       - Carichi principali sul velivolo: carichi.md
       - Diagramma di manovra: diagramma-manovra.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+```
