@@ -6,7 +6,7 @@ theme:
   language: it
 
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     - navigation.top
     - search.highlight
