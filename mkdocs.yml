@@ -36,6 +36,7 @@ nav:
       - Home Classe 5: classe5/index.md
       - Carichi principali sul velivolo: classe5/carichi.md
       - Diagramma di manovra: classe5/diagramma-manovra.md
+      
 
 markdown_extensions:
   - admonition
@@ -46,6 +47,7 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
+  # - javascripts/folding.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
