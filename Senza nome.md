@@ -1,0 +1,52 @@
+site_name: Costruzioni Aeronautiche
+site_description: Materiale didattico di Costruzioni Aeronautiche
+
+theme:
+  name: material
+  language: it
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Passa al tema scuro
+
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Passa al tema chiaro
+
+nav:
+  - Home: index.md
+
+  - Classe 4:
+      - Home Classe 4: classe4/index.md
+
+  - Classe 5:
+      - Home Classe 5: classe5/index.md
+      - Carichi principali sul velivolo: classe5/carichi.md
+      - Diagramma di manovra: classe5/diagramma-manovra.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css

@@ -96,7 +96,7 @@ In questa tabella sono riportati i limiti di fattore di carico e il calcolo dell
 | acrobatica     | 6                                 | $0,4\;n_{lim}^+$                  | $8,39 \sqrt {\frac{W}{S}}$        | $1,55 \; V_{no}$         |
 
 La velocità di stallo si calcola 
-$$ V_{s1} = \sqrt{\frac{2\;Q}{\rho \;S\;cp_{max}}}$$
+$$V_{s1} = \sqrt{\frac{2\;Q}{\rho \;S\;cp_{max}}}$$
 La velocità di manovra 
-$$ V_A = \sqrt{n_{lim}^+} \; V_{s1}$$
+$$V_A = \sqrt{n_{lim}^+} \; V_{s1}$$
 
