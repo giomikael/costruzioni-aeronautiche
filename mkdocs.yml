@@ -29,7 +29,7 @@ theme:
 nav:
    - Home: index.md
 
-  - Classe 4:
+   - Classe 4:
       - Home Classe 4: classe4/index.md
 
   - Classe 5:
