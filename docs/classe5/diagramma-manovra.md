@@ -1,5 +1,5 @@
 ---
-hide: navigation
+hide: navigation, tab
 ---
 
 # Diagramma di manovra
